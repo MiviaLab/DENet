@@ -1,6 +1,8 @@
 # DENet: a deep architecture for audio surveillance applications
 
 
+![](https://img.shields.io/badge/keras-tensorflow-blue.svg)
+
 <img src='./DELayer.png' align="right" width=370 style="margin-left:3%;margin-bottom:3%">
 
 This repository is the official implementation of [DENet: a deep architecture for audio surveillance applications](https://link.springer.com/article/10.1007/s00521-020-05572-5). 
