@@ -19,6 +19,7 @@ If you use this code in your research, please cite this paper.
   author={Greco, Antonio and Roberto, Antonio and Saggese, Alessia and Vento, Mario},
   journal={Neural Computing and Applications},
   doi={10.1007/s00521-020-05572-5},
+  pages={1--12},
   year={2021},
   publisher={Springer}
 }
